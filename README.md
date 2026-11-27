@@ -1,4 +1,4 @@
-# MobileClash免费节点 - 11月18日18.7M/S|免费Singbox节点/V2ray节点/Clash节点/Shadowrocket节点/SSR节点节点推荐，V2ray梯子购买推荐  更新时间 2026-11-18 11:44:32
+# MobileClash免费节点 - 11月27日21.4M/S|免费Singbox节点/Shadowrocket节点/V2ray节点/Clash节点/SSR节点节点推荐，V2ray梯子购买推荐  更新时间 2026-11-27 07:57:35
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://mobileclash.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://mobileclash.github.io/uploads/2026/11/0-20261118.yaml
-- https://mobileclash.github.io/uploads/2026/11/1-20261118.yaml
-- https://mobileclash.github.io/uploads/2026/11/2-20261118.yaml
-- https://mobileclash.github.io/uploads/2026/11/3-20261118.yaml
-- https://mobileclash.github.io/uploads/2026/11/4-20261118.yaml
+- https://mobileclash.github.io/uploads/2026/11/0-20261127.yaml
+- https://mobileclash.github.io/uploads/2026/11/1-20261127.yaml
+- https://mobileclash.github.io/uploads/2026/11/2-20261127.yaml
+- https://mobileclash.github.io/uploads/2026/11/3-20261127.yaml
+- https://mobileclash.github.io/uploads/2026/11/4-20261127.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://mobileclash.github.io/uploads/2026/11/0-20261118.txt
-- https://mobileclash.github.io/uploads/2026/11/1-20261118.txt
-- https://mobileclash.github.io/uploads/2026/11/2-20261118.txt
-- https://mobileclash.github.io/uploads/2026/11/3-20261118.txt
-- https://mobileclash.github.io/uploads/2026/11/4-20261118.txt
+- https://mobileclash.github.io/uploads/2026/11/0-20261127.txt
+- https://mobileclash.github.io/uploads/2026/11/1-20261127.txt
+- https://mobileclash.github.io/uploads/2026/11/2-20261127.txt
+- https://mobileclash.github.io/uploads/2026/11/3-20261127.txt
+- https://mobileclash.github.io/uploads/2026/11/4-20261127.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://mobileclash.github.io/uploads/2026/11/20261118.json
+- https://mobileclash.github.io/uploads/2026/11/20261127.json
 
 ## 更多Clash节点订阅 ：
 
